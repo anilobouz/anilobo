@@ -3,7 +3,7 @@ import telebot
 from flask import Flask, request
 
 # Bot tokiningizni bu yerga qo'ying
-BOT_TOKEN = "BOT_TOKENINGIZNI_SHU_YERGA_YOZING"
+BOT_TOKEN = "8980343380:AAGwYYh9hkdsTtfLzUTluTrqQFmh1oTgRK4"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Vercel talab qilayotgan 'app' obyektini yaratamiz
